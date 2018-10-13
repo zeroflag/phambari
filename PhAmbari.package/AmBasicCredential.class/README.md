@@ -1,0 +1,1 @@
+I'm a basic credential with a username and a password.

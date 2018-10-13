@@ -1,0 +1,1 @@
+I can make JSON request content from Smalltalk Objects.

@@ -1,0 +1,1 @@
+I can read HTTP JSON HTTP response and transform it into Smalltalk objects.

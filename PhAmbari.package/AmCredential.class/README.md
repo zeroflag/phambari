@@ -1,0 +1,1 @@
+I'm a base class for HTTP credentials.
