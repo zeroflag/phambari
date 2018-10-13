@@ -1,17 +1,14 @@
 {
 	"commentStamp" : "",
-	"super" : "Object",
+	"super" : "AmCredential",
 	"category" : "PhAmbari",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"baseUrl",
-		"headers",
-		"credential",
-		"contentWriter",
-		"contentReader"
+		"username",
+		"password"
 	],
-	"name" : "AmClient",
+	"name" : "AmBasicCredential",
 	"type" : "normal"
 }

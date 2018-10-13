@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "AmCredential",
+	"category" : "PhAmbari",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "AmNoCredential",
+	"type" : "normal"
+}

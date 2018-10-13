@@ -1,4 +1,4 @@
 rest
-get: anUrl
+delete: anUrl
 	^ (self clientWithUrl: anUrl) 
-		get
+		delete

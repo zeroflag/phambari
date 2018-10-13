@@ -5,13 +5,7 @@
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
-	"instvars" : [
-		"baseUrl",
-		"headers",
-		"credential",
-		"contentWriter",
-		"contentReader"
-	],
-	"name" : "AmClient",
+	"instvars" : [ ],
+	"name" : "AmCredential",
 	"type" : "normal"
 }
