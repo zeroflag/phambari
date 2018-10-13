@@ -2,7 +2,7 @@ private
 clientWithUrl: anUrl
 	| client |
 	client := ZnClient new
-		url: baseUrl / anUrl;
+		url: (anUrl asZnUrl isAbsolute ifTrue: [ anUrl ] ifFalse: [ baseUrl / anUrl ]);
 		contentWriter: contentWriter;
 		contentReader: contentReader;
 		yourself.
