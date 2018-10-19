@@ -1,0 +1,1 @@
+I'm an ambari cluster service.

@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "zeroflag 10/19/2018 14:04",
+	"super" : "Object",
+	"category" : "PhAmbari",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"raw",
+		"client"
+	],
+	"name" : "AmService",
+	"type" : "normal"
+}
