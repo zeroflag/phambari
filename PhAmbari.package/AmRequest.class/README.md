@@ -1,0 +1,1 @@
+I represent a request sent by HTTP to an ambari server.

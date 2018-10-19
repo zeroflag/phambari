@@ -1,3 +1,5 @@
 content reader
 value: aZnStringEntity 
-	^ NeoJSONReader fromString: aZnStringEntity contents
+	^ aZnStringEntity 
+		ifNil: [ Dictionary new ] 
+		ifNotNil: [ NeoJSONReader fromString: aZnStringEntity contents ]

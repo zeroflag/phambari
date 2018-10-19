@@ -1,0 +1,1 @@
+I represent an Ambari Cluster with all of its services, components and stacks.

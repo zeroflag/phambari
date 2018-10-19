@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "zeroflag 10/19/2018 12:25",
+	"super" : "Object",
+	"category" : "PhAmbari",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"request"
+	],
+	"name" : "AmRequest",
+	"type" : "normal"
+}

@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "zeroflag 10/19/2018 13:09",
+	"super" : "AmResult",
+	"category" : "PhAmbari",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "AmNoResult",
+	"type" : "normal"
+}
